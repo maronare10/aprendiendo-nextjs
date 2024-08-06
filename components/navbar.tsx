@@ -14,6 +14,10 @@ const Navbar = () => {
           <Link href="/perfil">Perfil</Link>
           <Link href="/hola/adios">Adios</Link>
           <Link href="/productos">Productos</Link>
+          <Link href="/pokemons">Pokemons</Link>
+          <Link href="/recipes">Recetas</Link>
+          <Link href="/productsDummyjson">Products Dummyjson</Link>
+          <Link href="/countries">Countries</Link>
         </nav>
         </div>
       </div>
